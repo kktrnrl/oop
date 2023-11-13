@@ -1,0 +1,14 @@
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\bin\Debug\net7.0\task-json.exe
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\bin\Debug\net7.0\task-json.deps.json
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\bin\Debug\net7.0\task-json.runtimeconfig.json
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\bin\Debug\net7.0\task-json.dll
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\bin\Debug\net7.0\task-json.pdb
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.AssemblyInfoInputs.cache
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.AssemblyInfo.cs
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.csproj.CoreCompileInputs.cache
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.dll
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\refint\task-json.dll
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.pdb
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\task-json.genruntimeconfig.cache
+C:\Users\KateO\OneDrive\Рабочий стол\task-json\task-json\obj\Debug\net7.0\ref\task-json.dll
